@@ -1,0 +1,5 @@
+# Git ignore for cleaned project
+*.pyc
+__pycache__/
+.env
+venv/
